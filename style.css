@@ -1,0 +1,136 @@
+@font-face{
+    src:url("fonts/Billabong.ttf");
+    font-family:Billabong;
+}
+h4{
+    font-family:Billabong,sans-serif;
+    font-size:35px;
+    margin: 15px;
+}
+#notification{
+    height:2px;
+    width:5px;
+}
+body{
+    font-family: sans-serif;
+    display:inline-block;
+    background:hsl(0, 20%, 99%);
+    
+}
+#home-btn , #message {
+    height:20px;
+    width:30px;
+
+}
+#explore{
+    height:25px;
+    width:28px;
+}
+#create{
+    height:20px;
+    width:20px;
+
+}
+#more{
+    height:28px;
+    width:33px;
+}
+.main{
+    display:flex;
+    font-size:20px;
+    margin:0;
+    padding:3vh 15vh 3vh 3vh;
+    text-decoration:none;
+    color:hsla(0, 0%, 5%, 0.993);
+   
+}
+.reels{
+    height:25px;
+    width:23px;
+}
+.main-logo{
+    float:left;
+    margin-right:150px;
+    margin-left:0;
+    
+    border-right:1px solid hsl(0, 8%, 85%);
+}
+#profile-logo{
+    margin-right:80px;
+    width:150px;
+    border-radius:50%;
+}
+.pro-lo{
+    margin-top:30px;
+   display:flex;
+   flex-direction:row;
+}
+.table-list{
+    font-family:sans-serif;
+    font-weight: bold;
+    font-size:1.5em;
+}
+#edit{
+    border:none;
+    background:hsl(0, 5%, 92%);
+    font-weight: bold;
+    margin-left:10px;
+    padding:10px 15px;
+    border-radius:5px;
+}
+#archive{
+    border:none;
+    background:hsl(0, 5%, 92%);
+    font-weight: bold;
+    margin-left:5px;
+    padding:10px 15px;
+    border-radius:5px;
+}
+#sett{
+    width:40px;
+    padding-left:5px;
+}
+.po-fo{
+    padding-right:5px;
+    font-weight:bold;
+}
+.table-list1{
+    font-family: sans-serif;
+    padding: 20px 20px 10px 0px;
+}
+
+#us-na{
+    margin:7px 0;
+    font-size:17px;
+}
+.story{
+    margin-top:80px;
+}
+.plus{
+    font-size:50px;
+    color:hsl(0, 1%, 68%);
+    border:1px solid hsl(0, 1%, 68%);
+    padding:0 15px;
+    border-radius:100%;
+}
+.spa{
+    margin-top:30px;
+}
+.table-list2{
+    font-size:12px;
+    height:50px;
+    display:flex;
+    justify-content: center;
+
+    
+}
+.po-sa{
+    padding-right:30px;
+}
+.po-sa-ta{
+    width:15px;
+    padding-right:5px;
+}
+.photo{
+    width:230px;
+}
